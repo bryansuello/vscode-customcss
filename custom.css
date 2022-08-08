@@ -1,0 +1,13 @@
+.editor-actions {
+  display: none !important;
+}
+
+
+/* file explorer buttons */
+.title-actions { 
+  display: none;
+}
+
+.title:hover .title-actions {
+  display: flex;
+}
