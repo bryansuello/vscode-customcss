@@ -11,3 +11,8 @@
 .title:hover .title-actions {
   display: flex;
 }
+
+/* file explorer title */
+.title-label > h2 {
+  display:none;
+}
